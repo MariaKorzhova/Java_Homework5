@@ -39,13 +39,3 @@ public class Task_5_2 {
             .forEach(System.out::println);
     }
 }
-            
-        // Set<String> persons = new HashSet<>();
-        // int count = 0;
-        // for (int i = 0; i < person1.size(); i++) {
-        //     if (persons.contains(person1)) {
-        //     System.out.println("YES");
-        //     } else {
-        //     System.out.println("NO");
-        //     persons.add(person1[i]);}}
-            
